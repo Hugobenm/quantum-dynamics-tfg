@@ -31,7 +31,7 @@ A core focus of this project is the study of probability currents in spin system
 
 * **Spin Probability Currents:**
   ![Spin Currents](assets/quantum_currents.png) 
-  *(Replace the link above with the actual path to your uploaded image)*
+ 
 
 * **Time Evolution (RK4):**
   ![Real Time Evolution](assets/evolucion_tiempo_real.gif)
