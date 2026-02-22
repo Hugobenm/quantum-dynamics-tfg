@@ -27,14 +27,12 @@ A core focus of this project is the study of probability currents in spin system
 
 ## 📊 Results & Visualizations
 
-*(Note: Add your images here! You can drag and drop your `.png` or `.gif` files right into the GitHub editor to generate the links)*
-
 * **Spin Probability Currents:**
   ![Spin Currents](assets/quantum_currents.png) 
  
 
 * **Time Evolution (RK4):**
-  ![Real Time Evolution](assets/evolucion_tiempo_realg=0 paso de E= 0 a 0.5.gif)
+  ![Real Time Evolution](assets/evolucion_tiempo_real.gif)
 
 ## 📂 Repository Structure
 
