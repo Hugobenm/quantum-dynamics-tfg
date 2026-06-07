@@ -196,6 +196,3 @@ If LaTeX is not installed, either install a LaTeX distribution or set `text.uset
 
 The repository includes a small set of example states, visualization inputs and selected sweep outputs. Large simulation outputs are intentionally not included. To create new data, use the sweep scripts or `run_single_state.py`.
 
-## License
-
-Add the license that best matches your thesis/project requirements before publishing.
